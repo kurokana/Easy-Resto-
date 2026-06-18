@@ -1,0 +1,9 @@
+# Ignore uploaded files in menu and profile directories
+uploads/menu/*
+!uploads/menu/.gitkeep
+uploads/profil/*
+!uploads/profil/.gitkeep
+
+# Ignore OS files
+.DS_Store
+Thumbs.db
